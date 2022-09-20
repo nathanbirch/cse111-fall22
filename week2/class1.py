@@ -36,7 +36,7 @@ from datetime import datetime
 
 ############################# Class Solutions #############################
 # Challenge #1
-str(int(float(input("Enter a number: "))))
+print("\n*** Challenge #1 ***\n", str(int(float(input("Enter a number: ")))))
 print("\n*** Challenge #1 ***\n", str(round(float(input("Enter a number: ")), 1)))
 print("\n*** Challenge #1 ***\n", type(len(list((round(math.sqrt(abs(float(str(int(input("Enter an integer: "))))))), 1)))))
 
