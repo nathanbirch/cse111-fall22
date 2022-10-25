@@ -74,3 +74,5 @@ def compute_area(width, length):
 
 def compute_square_root(value):
     return math.sqrt(value)
+
+suffix("hi there", "goodbye")
